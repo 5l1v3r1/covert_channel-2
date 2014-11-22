@@ -1,0 +1,6 @@
+Documentation
+
+1. cd to covert_channel directory
+2. Run program: program/channel.py
+3. Put HTML and secret files to files directory
+4. Tested on Mac, Linux and Windows7
